@@ -1,0 +1,24 @@
+Steps to Create a Git Repository and Add Folders
+
+  Step 1: Click on your GitHub profile at the top right corner.
+
+  Step 2: Click on "Create Repository".
+
+  Step 3: Enter the name of the repository (e.g., 2301031800081).
+
+  Step 4: (Optional) Add a README or other initial files if needed.
+
+  Step 5: Click on "Create Repository".
+
+  Step 6: Click on "Add file" → "Create new file".
+
+  Step 7: Type Assignment_1/ in the file name field.
+  This will create a folder named Assignment_1.
+  Inside this folder, create a temporary file named temp.txt.
+
+  Step 8: Click on "Commit new file" to save the changes.
+
+  Step 9: Repeat Step 6 and Step 7 to create another folder:
+  Type Assignment_2/ to create Assignment_2.
+  Add a temporary file inside it (e.g., temp.txt).
+  Click "Commit new file".
